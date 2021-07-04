@@ -1,5 +1,6 @@
 # Mitigating-Windows-Print-Spooler
 A simple script to stop and disable the vulnerable spooler service (PrintNightmare vulnerability).
+
 Microsoft has acknowledged the new vulnerability that affects the Windows Print Spooler service, giving attackers leverage to execute remote code with system-level privileges on all versions of Windows.
 
 It is recommended to stop and disable the spooler service pending when Microsoft will release a patch for the vulnerability.
